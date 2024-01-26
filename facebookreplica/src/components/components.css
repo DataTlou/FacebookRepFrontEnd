@@ -1,14 +1,12 @@
 .title
 {
     color: blue;
-    margin-top: 1%;
     font-size: 150%;
     font-family:Arial, Helvetica, sans-serif;
-
 }
 .title-div
 {
     align-items: start;
-    margin-left: -90%;
     size: 50%;
+    orientation: 'horizontal';
 }
